@@ -14,7 +14,7 @@ public class author {
 
     private String name;
     private String country;
-
+    
     public author() {
     }
 

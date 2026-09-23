@@ -15,7 +15,7 @@ import com.example.model.book;
 import com.example.services.bookservice;
 
 @RestController
-@RequestMapping("/books")
+@RequestMapping("/api/books")
 public class BookController {
 
     private final bookservice service;
